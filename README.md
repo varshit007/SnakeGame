@@ -9,6 +9,9 @@ The code for this project was written in C++ (14.0) using the IDE CLion. <br />
 The compiler used to compile the code was MS Visual Studio (14) <br />
 The grahics used to display the snake, food, etc. was built using Cinder. 
 
-![image](https://user-images.githubusercontent.com/47235519/130898958-1fd614ac-cfe4-4f68-a963-9cacf66b21de.png)
+
+
+https://user-images.githubusercontent.com/47235519/130900389-c90d7e6f-840b-45d8-aa69-2ab53b0b797e.mp4
+
 
 
