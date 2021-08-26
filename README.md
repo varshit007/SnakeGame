@@ -8,3 +8,7 @@ The only way to stop the game is if you exit, or if the snake collides with the 
 The code for this project was written in C++ (14.0) using the IDE CLion. <br />
 The compiler used to compile the code was MS Visual Studio (14) <br />
 The grahics used to display the snake, food, etc. was built using Cinder. 
+
+https://user-images.githubusercontent.com/47235519/130898112-000ea76d-fcc2-4196-b024-db8661e632b8.MP4
+
+
