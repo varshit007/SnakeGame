@@ -10,8 +10,10 @@ The compiler used to compile the code was MS Visual Studio (14) <br />
 The grahics used to display the snake, food, etc. was built using Cinder. 
 
 
+![image](https://user-images.githubusercontent.com/47235519/130900726-2a1bfe7b-cf7f-4fca-bdf2-6c16dd14258b.png)
 
-https://user-images.githubusercontent.com/47235519/130900389-c90d7e6f-840b-45d8-aa69-2ab53b0b797e.mp4
+
+https://user-images.githubusercontent.com/47235519/130900745-09380405-4cee-414c-8116-b151de69d240.mp4
 
 
 
