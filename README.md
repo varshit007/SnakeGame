@@ -1,5 +1,5 @@
 # Snake Game! 
-I have created a simple classic snake game.<br />
+I have created a simple classic snake game:<br />
 The game is played by using the arrow keys on the keyboard - left moves the snake left, <br />
 right moves the snake right, etc.<br />
 If the snake eats the food (which is circular in shape), then both the size and the scores increase. <br />
